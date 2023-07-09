@@ -1,5 +1,5 @@
 compile:
-	gcc -o eShell eShell.c
+	gcc -o kshell kshell.c
 
 run: compile
-	./eShell
+	./kshell
