@@ -19,7 +19,7 @@ int main(int argc, char **argv)
   return EXIT_SUCCESS;
 }
 
-void lsh_loop(void) 
+void lsh_loop(void)
 {
   char *line;
   char **args;
